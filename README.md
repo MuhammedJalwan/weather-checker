@@ -1,1 +1,1 @@
-# weather-chek.py
+# weather-checker
